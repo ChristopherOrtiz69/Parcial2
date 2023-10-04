@@ -1,4 +1,4 @@
-export function factorial(){
+export function Factorial(n){
 
     n=prompt('Ingrese un numero:','');
 
@@ -14,5 +14,3 @@ export function factorial(){
 
     return resultado;
 }
-
-console.log(factorial());
